@@ -1,0 +1,310 @@
+2021-02-20 14:03:28 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/emad/Desktop/pathfinder-task/src/app.ts:31:14)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+2021-02-20 14:03:34 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/emad/Desktop/pathfinder-task/src/app.ts:31:14)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+2021-02-20 14:03:48 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/emad/Desktop/pathfinder-task/src/app.ts:31:14)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+2021-02-20 14:04:19 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/emad/Desktop/pathfinder-task/src/app.ts:31:14)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+2021-02-20 17:23:19 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/emad/Desktop/pathfinder-task/src/app.ts:31:14)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+2021-02-20 23:45:36 error: uncaughtException: Cannot find module '../controllers/users.controller'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../controllers/users.controller'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:46:23 error: uncaughtException: Cannot find module '../controllers/users.controller'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../controllers/users.controller'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/routes/users.route.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:46:57 error: uncaughtException: Cannot find module './routes/users.route'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module './routes/users.route'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:47:32 error: uncaughtException: UsersController is not defined
+ReferenceError: UsersController is not defined
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/controllers/trips.controller.ts:65:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/routes/trips.route.ts:2:1)
+2021-02-20 23:49:31 error: uncaughtException: Cannot find module '../services/users.service'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/controllers/trips.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/trips.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../services/users.service'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/controllers/trips.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/trips.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/controllers/trips.controller.ts:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:52:20 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:52:26 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:52:48 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:53:29 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:54:00 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts
+- /Users/emad/Desktop/pathfinder-task/src/controllers/auth.controller.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/services/auth.service.ts:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:54:35 error: uncaughtException: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/middlewares/auth.middleware.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+Error: Cannot find module '../models/users.model'
+Require stack:
+- /Users/emad/Desktop/pathfinder-task/src/middlewares/auth.middleware.ts
+- /Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts
+- /Users/emad/Desktop/pathfinder-task/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/middlewares/auth.middleware.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:57:47 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/index.js:510:19)
+    at AuthRoute.initializeRoutes (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:19:17)
+    at new AuthRoute (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:13:10)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:10:58)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:58:20 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/index.js:510:19)
+    at AuthRoute.initializeRoutes (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:19:17)
+    at new AuthRoute (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:13:10)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:10:58)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+2021-02-20 23:59:28 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/Users/emad/Desktop/pathfinder-task/node_modules/express/lib/router/index.js:510:19)
+    at AuthRoute.initializeRoutes (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:19:17)
+    at new AuthRoute (/Users/emad/Desktop/pathfinder-task/src/routes/auth.route.ts:13:10)
+    at Object.<anonymous> (/Users/emad/Desktop/pathfinder-task/src/server.ts:10:58)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/emad/Desktop/pathfinder-task/node_modules/ts-node/src/index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)

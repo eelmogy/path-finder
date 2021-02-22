@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/emad/Desktop/pathfinder-task/src/logs/info/.f538e3c427815455d3fc0348227d86795a9a2ed0-audit.json",
+    "files": [
+        {
+            "date": 1613819006020,
+            "name": "/Users/emad/Desktop/pathfinder-task/src/logs/info/2021-02-20.log",
+            "hash": "bb6d99708b7e361add61e0fbdacab06c"
+        },
+        {
+            "date": 1613854973623,
+            "name": "/Users/emad/Desktop/pathfinder-task/src/logs/info/2021-02-21.log",
+            "hash": "ae0ca52176b978b4795bb509365409b3"
+        },
+        {
+            "date": 1613980807185,
+            "name": "/Users/emad/Desktop/pathfinder-task/src/logs/info/2021-02-22.log",
+            "hash": "9f44754413a75bd3f079c5e16eca3894"
+        }
+    ]
+}
